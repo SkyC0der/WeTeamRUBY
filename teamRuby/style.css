@@ -68,14 +68,14 @@ h2.text{
         border-radius:10px;
     }
     .button a:hover ,.outs_more-buttn a:hover{color: #fff;
-        background: rgba(10, 73, 99, 0.521);}
+        background: rgba(255, 255, 255, 0);}
 
         .copy {
             /* padding-bottom: 10px; */
             margin-top: 90px;
         }
         .copy p {
-            margin: 10em;
+            margin: 0em;
             text-align: center;
             font-size: 19px;
             font-family: 'Times New Roman', Times, serif;
@@ -110,7 +110,7 @@ h2.text{
                 }
 
                 .copy {
-                    padding-top: 20em;
+                    /* padding-bottom: 10px; */
                     margin-top: 5px;
                 }
                 .copy p {
